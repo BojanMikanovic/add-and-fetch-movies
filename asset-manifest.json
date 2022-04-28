@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/add-and-fetch-movies/static/css/main.219cccbc.css",
+    "main.js": "/add-and-fetch-movies/static/js/main.e3c9c40c.js",
+    "index.html": "/add-and-fetch-movies/index.html",
+    "main.219cccbc.css.map": "/add-and-fetch-movies/static/css/main.219cccbc.css.map",
+    "main.e3c9c40c.js.map": "/add-and-fetch-movies/static/js/main.e3c9c40c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219cccbc.css",
+    "static/js/main.e3c9c40c.js"
+  ]
+}
